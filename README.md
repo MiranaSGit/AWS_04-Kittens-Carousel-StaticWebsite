@@ -43,10 +43,6 @@ AWS_Kittens-Carousel-StaticWebsite (folder)
         |----cat2.jpg    # image file
 ```
 
-## Expected Outcome
-
-![Project 101 : Kittens Carousel Application Snapshot](./project-101-snapshot.png)
-
 ### At the end of the project, following topics are to be covered;
 
 - Apache Web Server Installation on Linux
